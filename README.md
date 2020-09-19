@@ -1,22 +1,14 @@
 ### Hi there, I'm Lucas 👋
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
+- 🌱 I’m currently learning java
+- 👯 I’m looking to collaborate on an android app
+- 📫 How to reach me: [Contact Email](mailto:boislucasnicolas@gmail.com)
+- ⚡ Fun fact: I love to code and play guitar.
 
-<br />
-
+<hr />
 
 ### Languages and Tools:
-
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
