@@ -6,7 +6,6 @@
 - 📫 How to reach me: [Contact Email](mailto:boislucasnicolas@gmail.com)
 - ⚡ Fun fact: I love to code and play guitar.
 
-<hr />
 <!--
 
 ### Connect with me:
@@ -18,8 +17,7 @@
 [<Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>](https://www.instagram.com/lucasbois1)
 
 
-<br />
-<hr />
+<br /
 -->
 
 ### Languages and Tools:
@@ -36,7 +34,6 @@
 
 <br />
 <br />
-<hr />
 <br />
 
 
