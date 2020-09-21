@@ -40,6 +40,5 @@
 <br />
 
 
-### 📕 Github Stats
 <img align="left" alt="LucasBois1's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=LucasBois1&show_icons=true&hide_border=true" />
 <!--[![Lucasbois's github stats](https://github-readme-stats.vercel.app/api?username=LucasBois1)](https://github.com/LucasBois1/github-readme-stats)-->
