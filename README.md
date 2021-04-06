@@ -2,9 +2,8 @@
 
 
 - 🌱 I’m currently learning java
-- 👯 I’m looking to collaborate on an android app
 - 📫 How to reach me: [Contact Email](mailto:boislucasnicolas@gmail.com)
-- ⚡ Fun fact: I love to code and play guitar.
+- ⚡ Fun fact: I love to code and play the guitar.
 
 <br />
 
