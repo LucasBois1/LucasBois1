@@ -1,7 +1,5 @@
 <img src="https://imgur.com/CnE3Gt9.png"/>
 
-<a href="https://discord.com/users/296676243967836161"><img align="left" src="https://lanyard-profile-readme.vercel.app/api/296676243967836161?bg=23283d&borderRadius=8px&hideDiscrim=true"/></a>
-
 🚀 <a> Never give up </a>
 
 ## 📋 Profile
