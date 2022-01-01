@@ -1,6 +1,6 @@
 <img src="https://imgur.com/CnE3Gt9.png"/>
 
-🚀 <a> Never give up </a>
+🎹 <a> Life is like a piano. Black keys are pain and white keys are happiness. But you need them both to play the music </a>
 
 ## 📋 Profile
 
