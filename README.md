@@ -1,5 +1,3 @@
-<img src="https://imgur.com/CnE3Gt9.png"/>
-
 🎹 <a> Life is like a piano. Black keys are pain and white keys are happiness. But you need them both to play music </a>
 
 🧉 Hey there, I'm Lucas, a 21 years old guy from Argentina   
